@@ -4,4 +4,6 @@
 
 **2. Intelligent Movie Recommendation Application Powered by Machine Learning** [Link](https://github.com/gajendrasharma-github/TMDB_Movie_Recommender_System)
 
-**3. Predicting Taxi Fare using Machine Learning** [Link](https://github.com/gajendrasharma-github/Predicting_Taxi_Fare)
+**3. Employee Promotion Prediction Analytics** [Link](https://github.com/gajendrasharma-github/Employee-Promotion-Prediction-Analytics)
+
+**4. Predicting Taxi Fare using Machine Learning** [Link](https://github.com/gajendrasharma-github/Predicting_Taxi_Fare)
