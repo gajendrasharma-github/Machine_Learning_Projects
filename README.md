@@ -7,3 +7,5 @@
 **3. Employee Promotion Prediction Analytics** [Link](https://github.com/gajendrasharma-github/Employee-Promotion-Prediction-Analytics)
 
 **4. Predicting Taxi Fare using Machine Learning** [Link](https://github.com/gajendrasharma-github/Predicting_Taxi_Fare)
+
+**5. Predicting the survivors of Titanic using Machine Learning** [Link](https://github.com/gajendrasharma-github/Titanic_Case_Study)
